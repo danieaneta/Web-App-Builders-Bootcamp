@@ -3,7 +3,7 @@
 ![cover-image](https://github.com/user-attachments/assets/89058ec6-c8cf-412c-b66f-b50d58d70aef)
 
 
-Welcome to the Web App Builders 26 Week Bootcamp!  
+Welcome to the Web App Builders 26 Week (~6 Months) Bootcamp!  
 A Free and Open-Source Project-Based "Junior" Full-Stack Developer Bootcamp for Beginners.
 
 ## Table of Contents
