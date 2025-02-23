@@ -1,5 +1,8 @@
 # Web-App-Builders-Bootcamp
 
+![cover-image](https://github.com/user-attachments/assets/89058ec6-c8cf-412c-b66f-b50d58d70aef)
+
+
 Welcome to the Web App Builders Bootcamp!  
 A Free and Open-Source Project-Based "Junior" Full-Stack Developer Bootcamp for Beginners.
 
