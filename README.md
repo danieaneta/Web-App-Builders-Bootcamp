@@ -22,6 +22,8 @@ This bootcamp will have you building from Week 1, and by Week 22 you will be bui
 
 This free and open‑source resource was created to give back to the community—something I wish had been available when I began my own journey in tech.
 
+**To view the bootcamp, please download the "Junior-FT_Bootcamp.pdf" from the repo.**
+
 ---
 
 ## Intro and Foreword
