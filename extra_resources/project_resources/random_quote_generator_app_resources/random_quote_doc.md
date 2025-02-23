@@ -17,3 +17,5 @@ A simple app that displays a random quote when a button is clicked.
 1. Create an array of quotes.
 2. When the button is clicked, pick a random quote from the array.
 3. Display the quote inside a `<p>` element.
+
+## IMPORTANT: Create the Javascript (script.js) which corresponds to the html and css files.

@@ -17,3 +17,5 @@ A simple counter with increment, decrement, and reset buttons.
 2. Clicking "Increase" increments the number.
 3. Clicking "Decrease" decrements the number.
 4. Clicking "Reset" resets the number to 0.
+
+## IMPORTANT: Create the Javascript (script.js) which corresponds to the html and css files.

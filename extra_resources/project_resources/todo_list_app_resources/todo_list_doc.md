@@ -17,3 +17,5 @@ A basic to-do list where users can add and remove tasks.
 1. Create an input field and a button.
 2. When the button is clicked, add the task to an unordered list (`<ul>`).
 3. Clicking on a task removes it from the list.
+
+## IMPORTANT: Create the Javascript (script.js) which corresponds to the html and css files.

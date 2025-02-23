@@ -1,7 +1,7 @@
 # Web-App-Builders-Bootcamp
 
 Welcome to the Web App Builders Bootcamp!  
-A Free and Open-Source "Junior" Full-Stack Developer Bootcamp for Beginners.
+A Free and Open-Source Project-Based "Junior" Full-Stack Developer Bootcamp for Beginners.
 
 ## Table of Contents
 
@@ -49,8 +49,13 @@ This bootcamp is divided into three distinct sections:
 
 These sections eventually converge when we begin building full‑stack applications, highlighting the unique intricacies of each area.
 
+Instead of working on guided projects, the initial projects within this bootcamp will push you to work on projects on your own in an "explorative" way. This is to reinforce the topics you are learning from each video within the first few weeks.
+
+Eventually, during the harder projects, you will be presented with guided projects and have a chance to work on your own app to reinforce your learning.
+
 **Important Notes:**
 - Complete each lesson sequentially (e.g., Week 1 of Frontend, Backend, and Intro to Programming should be done concurrently).
+- There WILL be times where you may not know what to do during explorative projects, just remember that times like these will happen during the job and not just in this bootcamp. Force yourself to figure it out on your own. This is a skill that you will hone during the next few months, and will take you far afterwards.
 - Mastery comes with practice, time, and experience—exposure alone is not enough.
 - After finishing the bootcamp, continue building and honing your skills with your own projects!
 
