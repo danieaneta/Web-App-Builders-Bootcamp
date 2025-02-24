@@ -48,6 +48,11 @@ Even if tech jobs are offshored, your skills as a developer remain valuable. Kee
 
 ## About the Bootcamp
 
+[Bootcamp Pipeline Explanation Video - How to do the bootcamp!](https://youtu.be/zaLfGx6YLvM)
+
+
+
+
 While I organized the learning pipeline, the real credit goes to the creators of the resources linked throughout this bootcamp. I encourage you to explore their channels and social media!
 
 This bootcamp is divided into three distinct sections:
